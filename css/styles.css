@@ -1,0 +1,24 @@
+.form-group {
+  color: purple;
+  background-color: lightgreen;
+  font-style: italic;
+  font-family: cursive;
+}
+
+h1 {
+  color: green;
+  text-align: center;
+  font-style: italic;
+  font-family: cursive;
+}
+
+.result {
+  font-size: 25px;
+  font-style: italic;
+  font-family: cursive;
+  color: purple;
+}
+
+body {
+  background-color: violet;
+}
